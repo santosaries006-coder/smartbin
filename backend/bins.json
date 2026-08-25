@@ -1,0 +1,12 @@
+{
+  "smartbin-01": {
+    "name": "Smart Bin 01",
+    "location": "Main Building 	6 Ground Floor",
+    "user_email": "user@example.com"
+  },
+  "smartbin-02": {
+    "name": "Smart Bin 02",
+    "location": "Main Building 	6 2nd Floor",
+    "user_email": "anotheruser@example.com"
+  }
+}
